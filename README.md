@@ -14,9 +14,9 @@
 | 8  | Очистка и подготовка данных | Google Colab + Python | [Урок 8](lessons/lesson8.md) | [Задание 7](tasks/task7.md) |
 | 9  | Агрегации и сегментация данных | Google Colab + Python| [Урок 9](lessons/lesson9.md) | [Задание 8](tasks/task8.md) |
 | 10 | Визуализация данных | Google Colab + Python | [Урок 10](lessons/lesson10.md) | [Задание 9](tasks/task9.md) |
-| 11 | Регрессионные модели | Google Colab + Python | [Урок 11](lessons/lesson11.md) | |
-| 12 | Модели классификации | Google Colab + Python| [Урок 12](lessons/lesson12.md) | |
-| 13 | Временные ряды | Google Colab + Python | [Урок 13](lessons/lesson13.md) | |
+| 11 | Регрессионные модели | Google Colab + Python | [Урок 11](lessons/lesson11.md) | [Задание 10](tasks/task10.md) |
+| 12 | Модели классификации | Google Colab + Python| [Урок 12](lessons/lesson12.md) | [Задание 11](tasks/task11.md) |
+| 13 | Временные ряды | Google Colab + Python | [Урок 13](lessons/lesson13.md) | [Задание 12](tasks/task12.md) |
 
 ## 🎯 Результаты обучения
 
